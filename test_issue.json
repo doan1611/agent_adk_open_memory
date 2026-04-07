@@ -1,0 +1,8 @@
+{
+  "defectCode": "P250217-03238",
+  "title": "[REP][YB1] [A346N] BluetoothAgent(com.sec.android.app.bluetoothagent,35.15) / Application not responding[ACT][3rdAppAuto]",
+  "contentSummary": "Not merge ISehBluetooth\r\n=> Can not use ISehBluetooth HIDL or AIDL, BluetoothAgent not work",
+  "category": "S/W",
+  "cause": "Not merge ISehBluetooth\r\n=> Can not use ISehBluetooth HIDL or AIDL, BluetoothAgent not work",
+  "countermeasure": "Merge ISehBluetooth AIDL"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "filename": "TEST-001.json",
+    "processed_at": "2026-04-06T12:59:29.268324",
+    "defect_code": "TEST-001"
+  },
+  {
+    "filename": "TEST-001.json",
+    "processed_at": "2026-04-06T13:02:45.390519",
+    "defect_code": "TEST-001"
+  },
+  {
+    "filename": "TEST-001.json",
+    "processed_at": "2026-04-06T13:05:29.407080",
+    "defect_code": "TEST-001"
+  }
+]

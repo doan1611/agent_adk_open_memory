@@ -1,0 +1,8 @@
+{
+  "defectCode": "TEST-003",
+  "title": "Test Issue for File Watcher",
+  "contentSummary": "This is a test issue to verify file watcher functionality",
+  "category": "Test",
+  "cause": "Testing purposes",
+  "countermeasure": "Run tests"
+}
